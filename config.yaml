@@ -1,0 +1,6 @@
+logging:
+  level: INFO
+  file: logs/grammatag.log
+
+nlp:
+  model: en_core_web_trf
